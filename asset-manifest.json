@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/bujoux-rss/static/css/main.0992157e.chunk.css",
+    "main.js": "/bujoux-rss/static/js/main.a758b49d.chunk.js",
+    "main.js.map": "/bujoux-rss/static/js/main.a758b49d.chunk.js.map",
+    "runtime-main.js": "/bujoux-rss/static/js/runtime-main.db66b93c.js",
+    "runtime-main.js.map": "/bujoux-rss/static/js/runtime-main.db66b93c.js.map",
+    "static/js/2.ee3d584a.chunk.js": "/bujoux-rss/static/js/2.ee3d584a.chunk.js",
+    "static/js/2.ee3d584a.chunk.js.map": "/bujoux-rss/static/js/2.ee3d584a.chunk.js.map",
+    "index.html": "/bujoux-rss/index.html",
+    "static/css/main.0992157e.chunk.css.map": "/bujoux-rss/static/css/main.0992157e.chunk.css.map",
+    "static/js/2.ee3d584a.chunk.js.LICENSE.txt": "/bujoux-rss/static/js/2.ee3d584a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db66b93c.js",
+    "static/js/2.ee3d584a.chunk.js",
+    "static/css/main.0992157e.chunk.css",
+    "static/js/main.a758b49d.chunk.js"
+  ]
+}
